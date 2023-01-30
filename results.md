@@ -1,9 +1,9 @@
 GraphAC is the audio captioning method proposed in "Graph Attention for Automated Audio Captioning". 
-GraphAC-attention is a variant of GraphAC that replaces the graph attention module into the Transformer encoder.
+AttentionAC is a variant of GraphAC that replaces the graph attention module into the Transformer encoder.
 The comparison as follows shows that GraphAC can achieve better SPIDEr performance, 
 which verifies the use of graph attention may be better than using Transformer encoder.
 
-| Metrics   | GraphAC | P-attention AC | 
+| Metrics   | GraphAC | AttentionAC | 
 | --------- | --------- | ------------- |
 | BLEU$_1$  | 0.5807    | 0.5839        | 
 | BLEU$_2$  | 0.3863    | 0.3931        | 
