@@ -9,3 +9,7 @@ The model structure of the proposed GraphAC is provided in the file path [model]
 ## Examples
 
 The example of predicted captions is presented at [captions_of_examples.md](captions_of_examples.md), accompanying Figure 2 of the paper "Graph Attention for Automated Audio Captioning". It demonstrates that the proposed method can accurately capture and caption the long-time dependent information.
+
+## License
+
+This project is released under the CC BY-NC-ND 4.0 license.
