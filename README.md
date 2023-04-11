@@ -1,6 +1,6 @@
 # GraphAC
 
-Here we provide the source code for the paper "Graph Attention for Automated Audio Captioning" submitted to [IEEE Signal Processing Letter]()
+Here we provide the source code for the paper "Graph Attention for Automated Audio Captioning" accepted by [IEEE Signal Processing Letter]().
 
 ## Model Structure
 
